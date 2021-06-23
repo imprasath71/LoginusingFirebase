@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836328974034",
+    "project_id": "toycathon-84da9",
+    "storage_bucket": "toycathon-84da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836328974034:android:2d259bbdb4a5d427a62f0b",
+        "android_client_info": {
+          "package_name": "com.example.arthashastra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836328974034-mphvevtljtfrf78t7o87nhslcqrvi5f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkNtYep-SMhFcTRBx6EXpsFEqit82BzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836328974034-mphvevtljtfrf78t7o87nhslcqrvi5f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
